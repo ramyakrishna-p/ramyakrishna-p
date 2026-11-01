@@ -18,6 +18,7 @@ Data Analyst at Capgemini (May 2024–Apr 2025) working with Python, SQL, Excel,
 | [Customer Churn Prediction](https://github.com/ramyakrishna-p/customer-churn-prediction-retention-analytics) | ML + Analytics | Test ROC-AUC 0.8122, CV ROC-AUC 0.7822 |
 | [Microplastic Segmentation](https://github.com/ramyakrishna-p/microplastic-segmentation) | Computer Vision | Dissertation: 41.8% mIoU, 53.3% Dice |
 | [Product Recommendation Engine](https://github.com/ramyakrishna-p/product-recommendation-engine) | ML / Software | Precision@3 0.4503 |
+| [Linear B-Cell Epitope Prediction](https://github.com/ramyakrishna-p/linear-b-cell-epitope-prediction) | ML, Data Mining, ESM-2 embeddings | Test Balanced Accuracy 0.7812, ROC-AUC 0.8503 |
 
 All project datasets are SYNTHETIC unless stated as dissertation results in that project's README.
 
